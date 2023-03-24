@@ -89,7 +89,7 @@ body {
 /* setup footer */
 
 #footer-container{
-  position: fixed;
+  /* position: fixed; */
   bottom: 0;
   right: 0;
   background-color: var(--main-red);
@@ -97,6 +97,7 @@ body {
   width:100%;
   display: flex;
   justify-content: space-between;
+  /* display: none; */
 }
 
 #footer-ul{
@@ -131,6 +132,25 @@ body {
 }
 
 /*  setup intorduction */
+
+#div-introduction{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding-top: 13rem;
+ 
+
+}
+
+#div-introduction h1{
+  color: var(--main-white);
+  font-size:4.5rem;
+  
+}
+
+#div-introduction , h2{
+  color: var(--main-red);
+}
 
 
  
