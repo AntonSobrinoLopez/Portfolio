@@ -1,0 +1,17 @@
+https://personal-portfolio.freecodecamp.rocks/
+
+px (píxeles): unidad de medida basada en la resolución de pantalla del dispositivo
+% (porcentaje): unidad de medida relativa al tamaño del elemento padre
+em: unidad de medida relativa al tamaño de fuente del elemento padre
+rem: unidad de medida relativa al tamaño de fuente de la raíz del documento (html)
+pt (puntos): unidad de medida típicamente usada en impresión, donde 1 pt = 1/72 pulgadas
+cm (centímetros): unidad de medida métrica, donde 1 cm = 10 mm
+mm (milímetros): unidad de medida métrica, donde 1 mm = 1/10 cm
+in (pulgadas): unidad de medida típicamente usada en impresión, donde 1 in = 2.54 cm
+
+
+Las unidades vh y vw en CSS se usan para definir tamaños y posiciones en relación al tamaño de la ventana del navegador.
+
+vh significa viewport height y equivale a un porcentaje del alto de la ventana del navegador. Por ejemplo, 50vh es la mitad del alto de la ventana del navegador.
+vw significa viewport width y equivale a un porcentaje del ancho de la ventana del navegador. Por ejemplo, 50vw es la mitad del ancho de la ventana del navegador.
+Estas unidades son muy útiles para crear diseños responsivos que se ajusten automáticamente al tamaño de la ventana del navegador.

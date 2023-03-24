@@ -1,0 +1,1 @@
+If we want others app use styles we have to create a myglobal.css
